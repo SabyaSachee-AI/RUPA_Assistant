@@ -1,0 +1,7 @@
+google-genai
+streamlit
+python-dotenv
+streamlit-mic-recorder
+Pillow
+edge-tts
+pygame
